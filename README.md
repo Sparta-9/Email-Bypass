@@ -2,7 +2,7 @@
 
 
 
-There were three options for login into the account;
+There are three options for login into the account;
 
     Facebook Login
     Google Login
